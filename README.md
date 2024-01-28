@@ -33,9 +33,25 @@ If there is an error in the API response or if the input values are invalid, the
 
 # License
 
-This script is licensed under the [insert license name]. You can find more details in the LICENSE file.
+This script is licensed under the License: MIT (c) 2024 Flexyledger Technology.
 
 # Contact
 If you have any questions or suggestions regarding this script, feel free to reach out to me at flexyledger@gmail.com
 
-# Logs
+
+# 📫Changelogs     
+## [1.0.0] - 2024-01-24     
+### Added  
+- Uploaded the solution.py that contains source code and API key
+- Added breakdown and documentation
+- Included user profile page
+
+### Changed
+- Change some API key in the script with my own API key
+- Updated documentation for readme file
+
+### Fixed 
+- Resolved issue 
+- Fixed some python code at line 16
+
+
